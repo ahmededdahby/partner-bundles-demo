@@ -1,1 +1,11 @@
-
+{
+  "partnerCode": "poc",
+  "platform": "android",
+  "channel": "stable",
+  "latestVersion": "1.0.0",
+  "minSuperAppVersion": "1.0.0",
+  "bundleUrl": "https://github.com/ahmededdahby/partner-bundles-demo/releases/download/poc-android-stable-v1.0.0/partner-poc-android-stable-v1.0.0.zip",
+  "sha256": "eb074f01b1cf8a4615a6e150f14c425aaebb238c93f5f6d8aca81e479e96f0a5",
+  "size": 0,
+  "publishedAt": "2026-06-04T00:00:00Z"
+}
