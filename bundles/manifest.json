@@ -5,10 +5,10 @@
   "bundles": [
     {
       "partnerCode": "poc",
-      "version": "1.0.3",
-      "bundleUrl": "https://github.com/ahmededdahby/partner-bundles-demo/releases/download/poc-android-stable-v1.0.3/partner-poc-android-stable-v1.0.3.zip",
-      "sha256": "45F52D29F53D914B0BD919841632FC514D9C66FC7FA308D857851D7CD2492253",
-      "size": 24726189,
+      "version": "1.0.4",
+      "bundleUrl": "https://github.com/ahmededdahby/partner-bundles-demo/releases/download/poc-android-stable-v1.0.4/partner-poc-android-stable-v1.0.4.zip",
+      "sha256": "61985BCE558C5C4F8643685B5F0241FBD51D315A6EE96A4AFCCDCA1E0452CF2A",
+      "size": 24726188,
       "minSuperAppVersion": "1.0.0"
     }
   ]
